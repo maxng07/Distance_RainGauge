@@ -10,4 +10,4 @@ The JSON file must be named <b>stations.json </b> to be used together with <a hr
 -d  defined the distance in Km to be used for comparison. </br>
 -h  the help menu of the program </p>
 
-Latest software <a href="https://github.com/maxng07/Distance_RainGauge/releases"> here </a>
+Latest software and release notes <a href="https://github.com/maxng07/Distance_RainGauge/releases"> here </a>
