@@ -12,4 +12,6 @@ The JSON file must be named <b>stations.json </b> to be used together with <a hr
 
 Latest software and release notes <a href="https://github.com/maxng07/Distance_RainGauge/releases"> here </a>
 
-Coordinates (Latitude and Longitude) provided by Meterological Service Singapore
+Coordinates (Latitude and Longitude) provided by Meterological Service Singapore from 
+<a href="https://data.gov.sg/dataset/weather-forecast"> Weather Forecast </a> and
+
