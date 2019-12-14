@@ -15,3 +15,6 @@ Latest software and release notes <a href="https://github.com/maxng07/Distance_R
 Coordinates (Latitude and Longitude) provided by Meterological Service Singapore from 
 <a href="https://data.gov.sg/dataset/weather-forecast"> 2 Hour Weather Forecast </a> and
 <a href="https://data.gov.sg/dataset/realtime-weather-readings?resource_id=8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d"> Near Real Time Rainfall </a>
+
+## Licensing
+The Haversine part of the code is adapted and modified from <a href=""https://github.com/umahmood/haversine">Usman Haversine GO library </a> into a single codebase integrated for use.
